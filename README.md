@@ -1,4 +1,3 @@
-<img style="width:5%; height:5%;" src="https://github.com/g-paras/sentiment-analysis-api/blob/master/static/img/icon.png?raw=true">
 
 # Sentiment Analysis
 
