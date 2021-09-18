@@ -16,7 +16,7 @@ Python dependencies used:-
 7. NLTK 3.5
 
 Check it out on
-https://sentiment-analysis-web-app.herokuapp.com
+https://arnav-sentiment-analysis.herokuapp.com/
 
 It might take few seconds to load please give it a try
 
@@ -37,7 +37,7 @@ It might take few seconds to load please give it a try
 
 - Implemented some async js to make predictions faster and avoid reloading using jquery
 
-- The above mentioned feature is in beta version, you can check it our [here](https://sentiment-analysis-web-app.herokuapp.com/test)
+- The above mentioned feature is in beta version, you can check it our [here](https://arnav-sentiment-analysis.herokuapp.com/)
 
 - Added session object to remember admin credentials for short amount of time.
 

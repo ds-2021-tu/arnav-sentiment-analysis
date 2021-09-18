@@ -1,6 +1,6 @@
 import requests
 
-base_url = "https://sentiment-analysis-web-app.herokuapp.com/fast-api/{}"
+base_url = "https://arnav-sentiment-analysis.herokuapp.com/fast-api/{}"
 
 pos = 0
 neg = 0
